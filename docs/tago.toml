@@ -1,0 +1,10 @@
+title       = "chotot"
+baseURL     = "https://chotot-cli.tamnd.com/"
+description = "A command line for chotot."
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/chotot-cli"
